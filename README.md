@@ -1,1 +1,5 @@
-# bash_shell_scripting
+
+## My Bash-shell scripts
+>- User info
+>- Variables
+>- Positional arguments
