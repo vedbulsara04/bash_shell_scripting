@@ -1,21 +1,14 @@
 #!/bin/bash
 
-# positional arguments.
+#positional arguments.
 
 name=$1
 compliment=$2
 
 echo "Hello $name!"
-
-sleep 2
-
-echo "$name seems to like bash scripting.."
-
-sleep 2
-
-echo "You are really good at $compliment!"
-
-sleep 2
-
-echo "Bye $name! Exiting this script now..."
-
+sleep 1
+echo "$name is running a bash script..."
+sleep 1
+echo "$name is good at $compliment"
+sleep 1
+echo "Bye $name!"

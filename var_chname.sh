@@ -3,7 +3,7 @@ name="Ved"
 
 echo "Good day to you $name!"
 
-sleep 2
+sleep 1
 
 echo "$name is having fun with bash scripting"
 

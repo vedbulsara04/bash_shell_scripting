@@ -2,14 +2,14 @@
 
 echo "Hello User!"
 
-sleep 3
+sleep 2
 
 echo "Welcome to your first bash script"
 
-sleep 3
+sleep 2
 
 echo "I like bash scripting"
 
-sleep 3
+sleep 2
 
 echo "Exiting from the current script..."
