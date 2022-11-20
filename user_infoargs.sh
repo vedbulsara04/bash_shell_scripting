@@ -16,4 +16,3 @@ sleep 1
 echo "You are currently in $whereami directory"
 sleep 1
 echo "The current date and time is : $date"
-
